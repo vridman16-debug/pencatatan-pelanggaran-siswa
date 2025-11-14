@@ -1,0 +1,4 @@
+{
+  "name": "Student Violation Tracker",
+  "description": "An application for teachers to log and manage students who do not wear complete attributes during school ceremonies. It includes full CRUD functionality and an AI-powered analysis feature to identify trends."
+}
